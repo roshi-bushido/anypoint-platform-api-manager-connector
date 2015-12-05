@@ -1,0 +1,3 @@
+<!-- BEGIN_INCLUDE(anypoint-api-platform:list-apis) -->
+    <anypoint-api-platform:list-apis config-ref="" />
+<!-- END_INCLUDE(anypoint-api-platform:list-apis) -->
